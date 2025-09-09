@@ -51,7 +51,7 @@ During critical customer escalations (CritSit), managers face:
 ---
 
 ## Team
-- Project Owner: [Your Name]  
+- Project Owner: Ting Li  
 - Hackathon Team: CE&S Portugal Hackathon Week  
 
 ---
@@ -62,5 +62,4 @@ During critical customer escalations (CritSit), managers face:
 ✅ **Transparency** — clear, auditable recommendations  
 
 ---
-# CritSit-Advisor
-AI-powered decision support for high-impact customer escalations (Hackathon Project)
+
