@@ -1,8 +1,6 @@
 # CritSit Advisor
 
 🚨 **AI-powered decision support for high-impact customer escalations (SEV A / CritSit).**  
-Part of CE&S Hackathon Week | Portugal, Sept 15–18.
-
 ---
 
 ## Problem
