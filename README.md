@@ -1,6 +1,7 @@
 # CritSit Advisor
 
-🚨 **AI-powered decision support for high-impact customer escalations (SEV A / CritSit).**  
+**AI-powered decision support for high-impact customer escalations**  
+
 ---
 
 ## Problem
