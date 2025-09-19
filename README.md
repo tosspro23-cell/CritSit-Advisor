@@ -16,12 +16,19 @@ During critical customer escalations (CritSit), managers face:
 **CritSit Advisor** is an AI-powered assistant that:
 - Consumes **case summaries** (Dynamics) and **chat snapshots** (Teams).
 - Applies a structured **six-module framework**:
-  1.Mitigation Priorities
-  2.Blockers & Resource Gaps
-  3.Team Responsibilities
-  4.Tactical Action Plan
-  5.Communication Drafts
-  6.Monitoring Checklist
+- 
+  1. Mitigation Priorities
+  
+  2. Blockers & Resource Gaps
+  
+  3. Team Responsibilities
+  
+  4. Tactical Action Plan
+  
+  5. Communication Drafts
+  
+  6. Monitoring Checklist
+  
   
 - Provides managers with **actionable insights** and clear decision paths.
 
@@ -57,9 +64,9 @@ During critical customer escalations (CritSit), managers face:
 ---
 
 ## Value
-✅ **Speed** — faster incident resolution  
-✅ **Accuracy** — structured, role-aware guidance  
-✅ **Transparency** — clear, auditable recommendations  
+**Speed** — faster incident resolution  
+**Accuracy** — structured, role-aware guidance  
+**Transparency** — clear, auditable recommendations  
 
 ---
 
